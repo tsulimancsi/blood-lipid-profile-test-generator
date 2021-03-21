@@ -18,18 +18,22 @@ A complete cholesterol test measures four types of lipids, or fats, in your bloo
 4. Triglycerides: When you eat, your body converts the calories it doesn’t need into triglycerides, which are stored in your fat cells. People who are overweight, diabetic, eat too many sweets, or drink too much alcohol can have high triglyceride levels.
 5. Non-HDL cholesterol: Non-HDL Cholestrol as its name implies, simply subtracts your high-density lipoprotein (HDL, or "good") cholesterol number from your total cholesterol number[1]
 
+
 ## Lipid Profile Test Values 
 
 | Type of Lipids | Optimal | Intermediate | High |
 | --- | --- | --- | --- |
-| Total Cholestrol | < 200 | 200 - 239 | > 239 |
 | LDL Cholestrol | < 130  | 130 - 159 | > 159  |
 | HDL Cholestrol | > 60 | 40 - 60 | < 40 |
 | Triglyceried | < 150  | 150 - 199  | > 199  |
+| Total Cholestrol | < 200 | 200 - 239 | > 239 |
 | Non-HDL-C | < 130 | 130 - 159 | > 159  |
 | TG to HDL ratio | < 3 | 3.1 - 3.8  | > 3.8 |
 
+Total Serum Cholestrol = LDL + HDL + 20% of Trig
 
+
+## Information 
 
 
 
