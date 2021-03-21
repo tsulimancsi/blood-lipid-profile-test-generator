@@ -30,8 +30,8 @@ A complete cholesterol test measures four types of lipids, or fats, in your bloo
 | Non-HDL-C | < 130 | 130 - 159 | > 159  |
 | TG to HDL ratio | < 3 | 3.1 - 3.8  | > 3.8 |
 
-Total Serum Cholestrol = LDL + HDL + 20% of Tgl
-TG to HDL ratio  = Total Cholestrol / HDL Cholestrol
+* Total Serum Cholestrol = LDL + HDL + 20% of Tgl
+* TG to HDL ratio  = Total Cholestrol / HDL Cholestrol
 
 
 In addition to the attributes provided above this data generator will generate the following attributes :
