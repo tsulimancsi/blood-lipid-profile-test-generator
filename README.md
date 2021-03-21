@@ -15,7 +15,8 @@ A complete cholesterol test measures four types of lipids, or fats, in your bloo
 1. Total cholesterol: This is the total amount of cholesterol in your blood.
 2. Low-density lipoprotein (LDL) cholesterol: This is referred to as “bad” cholesterol. Too much of it raises your risk of heart attack, stroke, and atherosclerosis.
 3. High-density lipoprotein (HDL) cholesterol: This is referred to as “good” cholesterol because it helps remove LDL cholesterol from your blood.
-4. Triglycerides: When you eat, your body converts the calories it doesn’t need into triglycerides, which are stored in your fat cells. People who are overweight, diabetic, eat too many sweets, or drink too much alcohol can have high triglyceride levels.[1]
+4. Triglycerides: When you eat, your body converts the calories it doesn’t need into triglycerides, which are stored in your fat cells. People who are overweight, diabetic, eat too many sweets, or drink too much alcohol can have high triglyceride levels.
+5. Non-HDL cholesterol: Non-HDL Cholestrol as its name implies, simply subtracts your high-density lipoprotein (HDL, or "good") cholesterol number from your total cholesterol number[1]
 
 ## Lipid Profile Test Values 
 
