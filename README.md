@@ -4,9 +4,9 @@
 A complete cholesterol test is also called a lipid panel or lipid profile. It's used by medical professional to measure the amount of “good” and “bad” cholesterol and triglycerides, a type of fat, in your blood.
 Too much cholesterol can lead to:
 
-1. heart disease
-2. stroke
-3. atherosclerosis, a clogging or hardening of your arteries
+1. Heart disease
+2. Stroke
+3. Atherosclerosis, a clogging or hardening of your arteries
 
 What Does a Cholesterol Test Measure?
 
