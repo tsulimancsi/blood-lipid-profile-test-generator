@@ -62,7 +62,7 @@ Life
 
 | Model to Use| Risk Factors |
 | --- | --- | 
-| Logistic Regression, K-Nearest Neighbor KNN , Classification Tree, Decission Trees, Support Vector Machine SVM| Age, sex, Blood Pressure,CP , Trestbps , Lipid Profile Test| 
+| Logistic Regression, K-Nearest Neighbor KNN , Classification Tree, Decission Trees, Support Vector Machine SVM| Age, sex, Blood Pressure,CP , Trestbps , Lipid Profile Test data| 
 
 
 
