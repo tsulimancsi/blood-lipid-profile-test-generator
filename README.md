@@ -66,7 +66,11 @@ Life
 | Logistic Regression, K-Nearest Neighbor KNN ,Auto Machine Learning (AutoML) , Classification Tree, Decission Trees, Support Vector Machine SVM| Age, sex, Blood Pressure,CP , Trestbps , Lipid Profile Test data| 
 
 
-## 
+## Machine Learning Algorithms
+
+### Logistic Regression
+
+
 
 
 
