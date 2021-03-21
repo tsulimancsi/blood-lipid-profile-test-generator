@@ -19,9 +19,13 @@ A complete cholesterol test measures four types of lipids, or fats, in your bloo
 
 ## Lipid Profile Test Values 
 
-| Stretch/Untouched | ProbDistribution | Accuracy |
-| --- | --- | --- |
-| Stretched | Gaussian | .843 |
+| Type of Lipids | Optimal | Intermediate | High |
+| --- | --- | --- | --- |
+| Total Cholestrol | <200 | 200 - 239 | > 239 |
+| Total Cholestrol | Gaussian | .843 |  |
+| Total Cholestrol | Gaussian | .843 |  |
+| Total Cholestrol | Gaussian | .843 |  |
+| Total Cholestrol | Gaussian | .843 |  |
 
 
 
