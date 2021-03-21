@@ -46,7 +46,7 @@ In addition to the attributes provided above this data generator will generate t
 ## Data Information 
 
 * Number of Instances:
-30000
+30000 ( can be modified )
 * Data Set Characterstics : 
 Multivariate
 * Attribute Characterstics: 
@@ -55,6 +55,15 @@ Categorical, Real, Integer
 Classification
 * Area:
 Life
+
+
+## Risk Factors 
+
+
+| Model to Use| Risk Factors |
+| --- | --- | 
+| Logistic Regression, K-Nearest Neighbor KNN , Classification Tree, Decission Trees, Support Vector Machine SVM  | Age, sex, Blood Pressure| 
+
 
 
 
