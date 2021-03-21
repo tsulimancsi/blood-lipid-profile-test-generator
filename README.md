@@ -21,12 +21,12 @@ A complete cholesterol test measures four types of lipids, or fats, in your bloo
 
 | Type of Lipids | Optimal | Intermediate | High |
 | --- | --- | --- | --- |
-| Total Cholestrol | <200 | 200 - 239 | > 239 |
-| LDL Cholestrol | Gaussian | .843 |  |
-| HDL Cholestrol | Gaussian | .843 |  |
+| Total Cholestrol | < 200 | 200 - 239 | > 239 |
+| LDL Cholestrol | < 130  | 130 - 159 | > 159  |
+| HDL Cholestrol | > 60 | 40 - 60 | < 40 |
 | Triglyceried | < 150  | 150 - 199  | > 199  |
 | Non-HDL-C | < 130 | 130 - 159 | > 159  |
-| TG to HDL ratio | < 3 | 3.1 - 3.8  | >3.8 |
+| TG to HDL ratio | < 3 | 3.1 - 3.8  | > 3.8 |
 
 
 
