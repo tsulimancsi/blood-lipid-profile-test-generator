@@ -31,7 +31,17 @@ A complete cholesterol test measures four types of lipids, or fats, in your bloo
 | TG to HDL ratio | < 3 | 3.1 - 3.8  | > 3.8 |
 
 Total Serum Cholestrol = LDL + HDL + 20% of Trig
+TG to HDL ratio  = Total Cholestrol / HDL Cholestrol
 
+
+In addition to the attributes provided above this data generator will generate the following attributes :
+
+1. Age : age in years
+2. Sex : Male = 1 of Female = 0 
+3. CP : Chest Pain  type
+4. Trestbps:  resting blood pressure (in mm Hg on admission to the hospital)
+===========================================================================
+5. Target : ( Predicted Value )
 
 ## Information 
 
