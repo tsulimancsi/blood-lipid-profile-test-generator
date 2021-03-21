@@ -40,8 +40,9 @@ In addition to the attributes provided above this data generator will generate t
 2. Sex : Male = 1 of Female = 0 
 3. CP : Chest Pain  type
 4. Trestbps:  resting blood pressure (in mm Hg on admission to the hospital)
+5. DM : Diabetic 
 =====================================================================
-5. Target : ( Predicted Value )
+6. Target : ( Predicted Value )
 
 ## Data Information 
 
