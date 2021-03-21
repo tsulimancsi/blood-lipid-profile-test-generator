@@ -43,8 +43,18 @@ In addition to the attributes provided above this data generator will generate t
 =====================================================================
 5. Target : ( Predicted Value )
 
-## Information 
+## Data Information 
 
+* Number of Instances:
+30000
+* Data Set Characterstics : 
+Multivariate
+* Attribute Characterstics: 
+Categorical, Real, Integer
+* Associate Tasks:
+Classification
+* Area:
+Life
 
 
 
