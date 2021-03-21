@@ -60,7 +60,7 @@ Life
 ## Risk Factors 
 
 
-| Model to Use| Risk Factors |
+| Model to Use| Risk Factors Attributes |
 | --- | --- | 
 | Logistic Regression, K-Nearest Neighbor KNN ,Auto Machine Learning (AutoML) , Classification Tree, Decission Trees, Support Vector Machine SVM| Age, sex, Blood Pressure,CP , Trestbps , Lipid Profile Test data| 
 
