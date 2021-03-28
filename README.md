@@ -1,4 +1,4 @@
-# Blood Lipid Profile Test Data Generator
+# Blood Lipid Profile Fake Test Data Generator
 
 ## Introduction
 A complete cholesterol test is also called a lipid panel or lipid profile. It's used by medical professional to measure the amount of “good” and “bad” cholesterol and triglycerides, a type of fat, in your blood.
